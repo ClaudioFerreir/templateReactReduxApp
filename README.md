@@ -1,4 +1,4 @@
-# Getting Started with Create React App (ESlint and Prettier added)
+# Getting Started with Create React App (Redux, ESlint, Prettier and React Router Dom added)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
